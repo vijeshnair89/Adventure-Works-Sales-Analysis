@@ -7,3 +7,4 @@ Overall summary of the performance of the store which shows the KPIs like sales,
 Product details with the top selling and profitable products and the least selling products
 Customer details with the profitable customers and there purchasing behaviour as per various attributes like age, profession, income level, etc.
 DAX measures are used for calculation of KPIs and numbers.
+For every category and productcategory the product level details can be accessed through the drill through filters
